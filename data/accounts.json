@@ -1,0 +1,30 @@
+{"accounts": [
+    {
+        "amount": -100,
+        "month": 10,
+        "year": 2020,
+        "description": "cost",
+        "day": 9
+    },
+    {
+        "amount": 200,
+        "month": 11,
+        "year": 2020,
+        "description": "1104money",
+        "day": 4
+    },
+    {
+        "amount": -200,
+        "month": 10,
+        "year": 2020,
+        "description": "pay",
+        "day": 31
+    },
+    {
+        "amount": 2000,
+        "month": 11,
+        "year": 2020,
+        "description": "1111",
+        "day": 11
+    }
+]}

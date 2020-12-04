@@ -1,0 +1,16 @@
+{"accounts": [
+    {
+        "amount": 2000,
+        "month": 10,
+        "year": 2020,
+        "description": "part-time",
+        "day": 18
+    },
+    {
+        "amount": -1000,
+        "month": 10,
+        "year": 2020,
+        "description": "shopping",
+        "day": 19
+    }
+]}
